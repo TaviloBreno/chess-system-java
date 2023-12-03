@@ -2,8 +2,6 @@
 
 Olá a todos! É com grande entusiasmo que apresento o projeto de xadrez, uma jornada de desenvolvimento onde a paixão pela programação se uniu à criação de um sistema de jogo desafiador.
 
-Meu nome é Tavilo Breno 👨‍💻, e estou animado por compartilhar este projeto, cuidadosamente desenvolvido para aplicar diversos conceitos e técnicas na construção de um sistema de xadrez funcional.
-
 ## Estrutura do Projeto 🏰
 
 O projeto é composto por camadas cuidadosamente projetadas:
@@ -24,10 +22,6 @@ Explore um conjunto de funcionalidades, incluindo passagem de turno, movimentaç
 
 Desenvolvemos uma aplicação interativa no console, proporcionando uma experiência envolvente. Movimente as peças, explore as possibilidades e desfrute de uma partida de xadrez única.
 
-## Autor do Projeto: Tavilo Breno 🌟
-
-Este projeto foi concebido e implementado por mim, Tavilo Breno. Cada linha de código representa o comprometimento e paixão pelo desenvolvimento de jogos.
-
 ## Como Utilizar o Projeto? 🚀
 
 1. Clone o repositório.
@@ -39,6 +33,13 @@ Este projeto foi concebido e implementado por mim, Tavilo Breno. Cada linha de c
 
 O projeto está disponível para exploração no MIT B. Cada etapa do desenvolvimento é documentada, proporcionando uma visão clara do progresso.
 
+## Autor do Projeto
+
+- **Nome:** Tavilo Breno
+- **Email:** breno_wk2@hotmail.com
+- **LinkedIn:** [www.linkedin.com/in/tavilo-breno-barbosa-pessoa-b11238a2](www.linkedin.com/in/tavilo-breno-barbosa-pessoa-b11238a2)
+
 Sinta-se à vontade para experimentar o projeto agora ou em um momento mais adequado ao seu ritmo de aprendizado. Espero que esta jornada de desenvolvimento seja enriquecedora!
 
 Um grande abraço, boa exploração e até a próxima! 👋
+
